@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision AI - Pest Detection & Regional Infestation Intelligence",
+  "description": "Computer vision and AI-powered crop pest detection system with SQL-backed analysis logs, decision & impact history tracking, and interactive regional infestation trend mapping.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
